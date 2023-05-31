@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Moe by MoeHacker
+kernel.string=Moe by whyakari
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,10 +12,10 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=ginkgo
 device.name2=willow
-device.name3=
+device.name3=r5q
 device.name4=
 device.name5=
-supported.versions=11.0-14.0
+supported.versions=10.0-14.0
 supported.patchlevels=
 '; } # end properties
 
